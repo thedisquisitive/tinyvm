@@ -1,2 +1,2 @@
 # tinyvm
-A basic virtual machine
+A basic virtual machine with assembler.
